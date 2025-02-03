@@ -1,2 +1,3 @@
 # AI
-Makeing a website for fun &amp; english class
+Making a website for fun & english class
+by obtainig informatinon from other websites
